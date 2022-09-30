@@ -1,6 +1,6 @@
-# Unsupervised-Learning-on-Source-Code
+## Unsupervised-Learning-on-Source-Code
 
-Explore and analyze on source code embeddings and integation of constraints and metric learning in Clustering:
+Supervised by Dr. Eldan Cohen to explore and analyze on source code embeddings and unsupervised learning in clustering:
 
 MPCK-Means
 
